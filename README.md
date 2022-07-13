@@ -29,3 +29,5 @@ python main.py 123
 ```
 
 And... That's all!
+
+**Tip:** You may like to run this script with crontab :wink:
